@@ -41,7 +41,6 @@ public class ReverseAFile {
 	         temp = str.charAt(i);
 	         reverseStr = reverseStr + temp;
 	      }
-	      //TODO: Remove the line below - only included so code will compile.
 	      return reverseStr;
 	   }
 
